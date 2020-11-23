@@ -15,7 +15,7 @@ function getTooltipContent2(dd) {
   // content += '<div>Cluster: ' + dd.Cluster + '</div>';
   content += '<div>price(만원): ' + dd.Price + '</div>';
   content += '<div>predict(만원): ' + dd.predict00 + '</div>';
-  content += '<div>주거 면적: ' + dd.Residentialarea + '</div>';
+  content += '<div>주거 면적: ' + dd.Dedicatedarea + '</div>';
   content += '<div>문화시설 개수 :' + dd.culture + '</div>';
   content += '<div>체육시설 개수: ' + dd.sports + '</div>';
   content += '<div>버스정류장 수: ' + dd.bus + '</div>';
